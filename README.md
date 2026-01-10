@@ -26,6 +26,3 @@ Workflow
 3. Polly generates MP3 audio
 4. Audio file is uploaded to S3 bucket
 
----
-
-## 📂 Project Structure
