@@ -1,5 +1,4 @@
 # Text-Narrator-using-AWS-Polly-and-Lambda
-HERE I LEARN ABOUT HOW TO USE AWS TO CONVERT TEXT TO MP3 VOICE USING AMAZON POLLY AND BY CREATING LAMBDA FUNCTION
 
 
 This project demonstrates a serverless text-to-speech system built using AWS services. 
