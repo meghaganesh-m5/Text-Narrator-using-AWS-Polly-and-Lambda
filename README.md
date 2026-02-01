@@ -8,7 +8,7 @@ AWS Services Used
 - AWS Lambda - for function
 - Amazon Polly
 - Amazon S3 - for storage
-- AWS IAM
+- AWS IAM - for security and managment
 
 
 
