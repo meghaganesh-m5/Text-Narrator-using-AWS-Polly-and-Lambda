@@ -5,9 +5,9 @@ This project demonstrates a serverless text-to-speech system built using AWS ser
 The system converts input text into natural-sounding speech and stores the generated audio file in Amazon S3.
 
 AWS Services Used
-- AWS Lambda
+- AWS Lambda - for function
 - Amazon Polly
-- Amazon S3
+- Amazon S3 - for storage
 - AWS IAM
 
 
